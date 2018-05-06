@@ -1,0 +1,3 @@
+%{
+  "socket": {:git, "https://github.com/rubencaro/elixir-socket", "8ef81a12864da80b63d143259bb9a2074ceea4a0", [branch: "fix_accept"]},
+}
